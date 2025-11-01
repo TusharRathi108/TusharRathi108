@@ -11,27 +11,11 @@ I'm Tushar Rathi, a passionate Full Stack Developer with a strong foundation in 
 - **Design:** UI/UX Design, Logo Designing
 - **Other:** SEO
 
-## 🌟 **Services**
-- **UI/UX Design** 🎨
-- **Logo Designing** ✒️
-- **SEO** 📈
-
-## 🛠️ **Projects**
-- **Responsive Design Websites** 🌐
-- **Animated Designs** 🎬
-- **Movie Search App** 🎥
-- **Telegram Bot Integration** 🤖
-- **Dynamic Dashboards** 📊
-
 ## 📚 **Education**
 - **B.Tech in CSE** from Chandigarh University (2020-2024) 🎓
 
 ## 📫 **Contact Me**
 - **Email:** [Email - Tushar Rathi](mailto:tushar.rathi.tech@gmail.com) 📧
-- **Phone:** 6283220270 📞
 - **LinkedIn:** [LinkedIn - Tushar Rathi](https://linkedin.com/in/tushar-rathi-2ab6b1230) 🌐
-
-## 🔍 **Currently Seeking**
-- **Node.js Developer Role** 💼
 
 Thank you for visiting my GitHub! Feel free to explore my projects and connect with me for any collaboration opportunities.
